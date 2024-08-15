@@ -77,7 +77,7 @@ Dive into it to find trends and patterns
 
 
 ## Visualization with TABLEAU
-[Tableau Graphs](https://public.tableau.com/views/LaidOff2020-2023/LaidOffOverTime?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+TABLEAU web version[Tableau Graphs](https://public.tableau.com/views/LaidOff2020-2023/LaidOffOverTime?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ![1](https://github.com/MPDEG/Companies-Layoffs-2020-2023/blob/main/Graphs/Dashboard%20Laid%20Off%20Over%20Time.png?raw=true)
 
