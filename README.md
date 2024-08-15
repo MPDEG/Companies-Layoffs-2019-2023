@@ -78,3 +78,8 @@ Dive into it to find trends and patterns
 
 ## Visualization with TABLEAU
 
+![1](https://github.com/MPDEG/Companies-Layoffs-2020-2023/blob/main/Graphs/Dashboard%20Laid%20Off%20Over%20Time.png?raw=true)
+
+![2](https://github.com/MPDEG/Bellabeat-Google-Data-Analytics-Capstone-Project/blob/36a6b83a422b8433f5d5877723482ac94d22d498/Graphs/Screenshot%202024-07-22%20154608.png)
+
+![3](https://github.com/MPDEG/Bellabeat-Google-Data-Analytics-Capstone-Project/blob/36a6b83a422b8433f5d5877723482ac94d22d498/Graphs/Screenshot%202024-07-22%20154608.png)
