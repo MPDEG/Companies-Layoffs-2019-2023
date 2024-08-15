@@ -14,15 +14,15 @@ The dataset owner on Kaggle noted that some information, such as sources, the li
 
 The dataset consists of 9 columns and a total of 2,361 rows. The columns are as follows:
 
-1. **company**: Name of the company.
-2. **location**: Location of the company.
-3. **industry**: Industry in which the company operates.
-4. **total_laid_off**: Total number of employees laid off.
-5. **percentage_laid_off**: Percentage of the workforce that was laid off.
-6. **date**: Date of the layoffs.
-7. **stage**: Stage of the company (e.g., startup, established).
-8. **country**: Country where the company is based.
-9. **funds_raised**: Amount of funds raised by the company.
+1. **Company**: Name of the company.
+2. **Location**: Location of the company.
+3. **Industry**: Industry in which the company operates.
+4. **Total_laid_off**: Total number of employees laid off.
+5. **Percentage_laid_off**: Percentage of the workforce that was laid off.
+6. **Date**: Date of the layoffs.
+7. **Stage**: Stage of the company (e.g., startup, established).
+8. **Country**: Country where the company is based.
+9. **Funds_raised**: Amount of funds raised by the company.
 
 The dataset originates from a Kaggle user who provided information on where the data was obtained and noted that certain details, such as sources, the list of laid-off employees, and dates of addition, were omitted. Due to these factors, the originality of the data is considered low, and caution should be exercised when trusting the insights derived from it.
 
