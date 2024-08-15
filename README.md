@@ -1,5 +1,5 @@
 # Companies-Layoffs-2020-2023
-<img src="https://github.com/MPDEG/Companies-Layoffs-2020-2023/blob/main/Graphs/layoff%20image.jpg?raw=true" width="500" height="250">
+<img src="https://github.com/MPDEG/Companies-Layoffs-2020-2023/blob/main/Graphs/layoff%20image.jpg?raw=true" width="600" height="300">
 
 In this project, we will clean and analyze the total layoff data from companies using SQL and Tableau to identify which companies, industries, and countries experienced the highest number of layoffs.
 
