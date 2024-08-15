@@ -88,3 +88,13 @@ TABLEAU web version[Tableau Graphs](https://public.tableau.com/views/LaidOff2020
 
 ![4](https://github.com/MPDEG/Companies-Layoffs-2020-2023/blob/main/Graphs/Summary%20Descriptive%20Metrics.png?raw=true)
 
+## Conclusion
+
+- We observed that in 2020, when Covid-19 emerged, layoffs surged rapidly over a three-month period before declining and remaining low for nearly two years. However, layoffs spiked again in 2022, driven by recession and inflation, with the trend continuing into the first three months of 2023.
+- Regarding funds raised by industries, Media and Transportation saw significant increases compared to other sectors, indicating they were less impacted by layoffs.
+- The top three companies that raised the most funds are Netflix, with nearly 500,000 million, followed by Uber with approximately 123,000 million, and WeWork with about 65,000 million.
+- The three industries with the highest layoffs are Consumer, Retail, and Transportation.
+ - The Transportation and Travel industries were the hardest hit in 2020.
+ - In 2022, Retail and Consumer sectors were the most affected.
+ - Manufacturing and Fin-Tech industries had the fewest total layoffs.
+- When examining layoffs by country, the United States stands out as the country with the most layoffs, significantly outpacing all others.
