@@ -1,5 +1,5 @@
 # Companies-Layoffs-2020-2023
-![1](https://www.investopedia.com/thmb/aNXFhcRKE9VT8pcmWsaNKzQjLyA=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/layoff.asp-final-516761c3b4e149d8b99b990525c82cb8.png)
+![1](https://github.com/MPDEG/Companies-Layoffs-2020-2023/blob/main/Graphs/layoff%20image.jpg?raw=true)
 
 In this project, we will clean and analyze the total layoff data from companies using SQL and Tableau to identify which companies, industries, and countries experienced the highest number of layoffs.
 
