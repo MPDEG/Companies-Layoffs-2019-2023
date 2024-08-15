@@ -6,9 +6,11 @@ In this project, we will clean and analyze the total layoff data from companies 
 
 Large companies and organizations worldwide are grappling with the economic slowdown. Factors such as sluggish consumer spending, higher interest rates imposed by central banks, and a strong dollar abroad are signaling a potential recession, leading companies to begin laying off employees. This dataset was created to examine, analyze, and uncover valuable insights into this trend.
 
-##  About Dataset
-This dataset, titled "Layoffs Dataset" is available for download from Kaggle in CSV format.[Dataset]([https://github.com/MPDEG/Bellabeat-Google-Data-Analytics-Capstone-Project/blob/cad40253a3e78ed1448f154010c23c0a48eba8f3/bellabeatPresentationSlides.pdf](https://www.kaggle.com/datasets/swaptr/layoffs-2022))
-The data covers the period from March 11, 2020, to March 6, 2023. The dataset owner on Kaggle noted that some information, such as sources, the list of laid-off employees, and dates of addition, has been omitted. The complete dataset can be found on Layoffs.fyi.
+## About Dataset
+This dataset, titled "Layoffs Dataset" is available for download from Kaggle in CSV format.[Dataset]([https://www.kaggle.com/datasets/swaptr/layoffs-2022])
+
+The data covers the period from March 11, 2020, to March 6, 2023. 
+The dataset owner on Kaggle noted that some information, such as sources, the list of laid-off employees, and dates of addition, has been omitted. The complete dataset can be found on Layoffs.fyi.
 
 The dataset consists of 9 columns and a total of 2,361 rows. The columns are as follows:
 
@@ -30,9 +32,9 @@ While the dataset is updated weekly, the analysis we are conducting will focus o
 
 **Based on these points, the analysis will be conducted solely for the purpose of practicing with tools like SQL and Tableau. However, the credibility of the insights obtained should not be considered reliable.**
 
-##**PROCESS**
+## **PROCESS**
 
-###Data Cleaning
+### Data Cleaning
 
 - Created a new schema
 - Import table data
@@ -53,7 +55,7 @@ While the dataset is updated weekly, the analysis we are conducting will focus o
 -- 4. Remove Unnecessary Column or Row
       
 
-##Exploratory Data Analysis
+## Exploratory Data Analysis
 Dive into it to find trends and patterns
 
 - Summary Table Descriptive Metrics
@@ -74,5 +76,5 @@ Dive into it to find trends and patterns
 - Employees per company
 
 
-#Visualization with TABLEAU
+# Visualization with TABLEAU
 
