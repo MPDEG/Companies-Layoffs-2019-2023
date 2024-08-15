@@ -7,7 +7,7 @@ In this project, we will clean and analyze the total layoff data from companies 
 Large companies and organizations worldwide are grappling with the economic slowdown. Factors such as sluggish consumer spending, higher interest rates imposed by central banks, and a strong dollar abroad are signaling a potential recession, leading companies to begin laying off employees. This dataset was created to examine, analyze, and uncover valuable insights into this trend.
 
 ## About Dataset
-This dataset, titled "Layoffs Dataset" is available for download from Kaggle in CSV format. [Dataset]([https://www.kaggle.com/datasets/swaptr/layoffs-2022])
+This dataset, titled "Layoffs Dataset" is available for download from Kaggle in CSV format. [Dataset](https://www.kaggle.com/datasets/swaptr/layoffs-2022)
 
 The data covers the period from March 11, 2020, to March 6, 2023. 
 The dataset owner on Kaggle noted that some information, such as sources, the list of laid-off employees, and dates of addition, has been omitted. The complete dataset can be found on Layoffs.fyi.
