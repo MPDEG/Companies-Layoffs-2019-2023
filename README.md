@@ -1,4 +1,5 @@
 # Companies-Layoffs-2020-2023
+![1](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.investopedia.com%2Fterms%2Fl%2Flayoff.asp&psig=AOvVaw0kkM79HcFAGIwc-GrboSzD&ust=1723817590070000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPC7o5qX94cDFQAAAAAdAAAAABAE)
 
 In this project, we will clean and analyze the total layoff data from companies using SQL and Tableau to identify which companies, industries, and countries experienced the highest number of layoffs.
 
