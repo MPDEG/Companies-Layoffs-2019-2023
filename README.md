@@ -40,19 +40,19 @@ While the dataset is updated weekly, the analysis we are conducting will focus o
 - Import table data
 - First look at the data
 - Created some type of staging or raw data set (COPY)
-- 1. Removed Duplicates
+1. Removed Duplicates
     - Identify Duplicates
     - Deleted Duplicates
-- 2. Standardized the Data
+2. Standardized the Data
     - Trimmmed
     - Standardized Labels
     - Corrected Misspelling
     - Format Consistent(Date)
-- 3. Null Values or Blank Values
+3. Null Values or Blank Values
     - Checked for nulls and blanks
     - Set the blanks as nulls
     - filled up the nulls with populated rows
-- 4. Remove Unnecessary Column or Row
+4. Remove Unnecessary Column or Row
       
 
 ## Exploratory Data Analysis
